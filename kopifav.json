@@ -35,14 +35,14 @@
         "coffee_detail": "Slow-steeped, small-batch and super smooth. To create our signature recipe, our team spent months experimenting with different brew times and coffee varietals. We specifically developed the Starbucks® Cold Brew Blend to heighten the rich, naturally sweet flavor created during the cold brewing process.",
         "coffee_thumbnails": "https://nadilaasucip16.github.io/2209569-Nadila-Suci-Permatasari-coffee-shop/images/cold_brew_thumbnail.png",
         "coffee_poster": "https://nadilaasucip16.github.io/2209569-Nadila-Suci-Permatasari-coffee-shop/images/cold_brew_poster.jpg"
-
+    },
+    {
         "coffee_id": 6,
         "coffee_title": "Vanilla Sweet Cream Cold Brew",
         "coffee_detail": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. A Starbucks classic, chilled for a classic summer’s day. To our signature espresso we add a creamy mix of vanilla syrup and cold milk poured over ice; it’s then topped with our proprietary buttery caramel sauce. Sweet!",
         "coffee_thumbnails": "https://nadilaasucip16.github.io/2209569-Nadila-Suci-Permatasari-coffee-shop/images/vanilla_sweet_cream_cold_brew_thumbnail.png",
         "coffee_poster": "https://nadilaasucip16.github.io/2209569-Nadila-Suci-Permatasari-coffee-shop/images/vanilla_sweet_cream_cold_brew_poster.jpg"
     },
-     
     {
         "coffee_id": 7,
         "coffee_title": "Mango Passion Frappuccino",
